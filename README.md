@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🔬 **Current Focus:** Researching and developing advanced Machine Learning and Deep Learning architectures.
-- 🎓 **Education:** Undergraduate at Kotelawala Defence University.
+- 🎓 **Education:** Graduate at Kotelawala Defence University.
 - 💡 **Interests:** Computer Vision, Natural Language Processing (NLP), Predictive Modeling, and MLOps.
 - 👯 **Collaboration:** Open to contributing to innovative AI research, open-source ML projects, and data pipelines.
 - 📫 **Contact Me:** [ravindupramod6@gmail.com](mailto:ravindupramod6@gmail.com)
