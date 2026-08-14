@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **undergraduater at kotelawala defense university**
 
-- 👯 I’m looking to collaborate on **internship program**
+- 👯 I’m looking to collaborate on **AI**
 
 - 📫 How to reach me **ravindupramod6@gmai.com**
 
